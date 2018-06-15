@@ -1,0 +1,29 @@
+body {
+    background: url(background.png);
+    background-size: 100%;
+
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+audio { 
+   display:none;
+}
+
+p {
+    font-family: Jonas;
+    font-size: 20px;
+}
+
+#game{
+    box-shadow:0px 0px 2px #000;
+    border: 7px solid white;
+    border-radius: 10px;
+}
+
+.ad{
+   padding-top:25px;
+}
